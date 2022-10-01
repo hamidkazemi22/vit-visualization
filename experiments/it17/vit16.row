@@ -1,0 +1,29 @@
+\begin{figure*}[t]\centering\setlength\tabcolsep{0pt}\begin{tabularx}{\linewidth}{YYYYYYYYYYYYYYY}
+& \salayer{0}{29} & \salayer{0}{30} & \salayer{0}{22} & \salayer{1}{31} & \salayer{1}{29} & \salayer{2}{5} & \salayer{2}{3} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \sbvis{0}{29}{vit16} & \sbvis{0}{30}{vit16} & \sbvis{0}{22}{vit16} & \sbvis{1}{31}{vit16} & \sbvis{1}{29}{vit16} & \sbvis{2}{5}{vit16} & \sbvis{2}{3}{vit16} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{0}{29}{vit16} & \saeval{0}{30}{vit16} & \saeval{0}{22}{vit16} & \saeval{1}{31}{vit16} & \saeval{1}{29}{vit16} & \saeval{2}{5}{vit16} & \saeval{2}{3}{vit16} \\[-3.3pt]
+& \salayer{2}{36} & \salayer{3}{35} & \salayer{3}{27} & \salayer{3}{37} & \salayer{4}{5} & \salayer{4}{9} & \salayer{4}{12} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \sbvis{2}{36}{vit16} & \sbvis{3}{35}{vit16} & \sbvis{3}{27}{vit16} & \sbvis{3}{37}{vit16} & \sbvis{4}{5}{vit16} & \sbvis{4}{9}{vit16} & \sbvis{4}{12}{vit16} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{2}{36}{vit16} & \saeval{3}{35}{vit16} & \saeval{3}{27}{vit16} & \saeval{3}{37}{vit16} & \saeval{4}{5}{vit16} & \saeval{4}{9}{vit16} & \saeval{4}{12}{vit16} \\[-3.3pt]
+& \salayer{5}{5} & \salayer{5}{10} & \salayer{5}{24} & \salayer{6}{1} & \salayer{6}{2} & \salayer{6}{6} & \salayer{6}{9} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \sbvis{5}{5}{vit16} & \sbvis{5}{10}{vit16} & \sbvis{5}{24}{vit16} & \sbvis{6}{1}{vit16} & \sbvis{6}{2}{vit16} & \sbvis{6}{6}{vit16} & \sbvis{6}{9}{vit16} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{5}{5}{vit16} & \saeval{5}{10}{vit16} & \saeval{5}{24}{vit16} & \saeval{6}{1}{vit16} & \saeval{6}{2}{vit16} & \saeval{6}{6}{vit16} & \saeval{6}{9}{vit16} \\[-3.3pt]
+& \salayer{6}{20} & \salayer{6}{27} & \salayer{7}{1} & \salayer{7}{5} & \salayer{7}{4} & \salayer{7}{8} & \salayer{7}{14} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \sbvis{6}{20}{vit16} & \sbvis{6}{27}{vit16} & \sbvis{7}{1}{vit16} & \sbvis{7}{5}{vit16} & \sbvis{7}{4}{vit16} & \sbvis{7}{8}{vit16} & \sbvis{7}{14}{vit16} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{6}{20}{vit16} & \saeval{6}{27}{vit16} & \saeval{7}{1}{vit16} & \saeval{7}{5}{vit16} & \saeval{7}{4}{vit16} & \saeval{7}{8}{vit16} & \saeval{7}{14}{vit16} \\[-3.3pt]
+& \salayer{7}{16} & \salayer{7}{17} & \salayer{7}{24} & \salayer{7}{37} & \salayer{8}{0} & \salayer{8}{3} & \salayer{8}{5} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \sbvis{7}{16}{vit16} & \sbvis{7}{17}{vit16} & \sbvis{7}{24}{vit16} & \sbvis{7}{37}{vit16} & \sbvis{8}{0}{vit16} & \sbvis{8}{3}{vit16} & \sbvis{8}{5}{vit16} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{7}{16}{vit16} & \saeval{7}{17}{vit16} & \saeval{7}{24}{vit16} & \saeval{7}{37}{vit16} & \saeval{8}{0}{vit16} & \saeval{8}{3}{vit16} & \saeval{8}{5}{vit16} \\[-3.3pt]
+& \salayer{8}{19} & \salayer{8}{22} & \salayer{8}{28} & \salayer{9}{0} & \salayer{9}{25} & \salayer{10}{0} & \salayer{10}{9} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \sbvis{8}{19}{vit16} & \sbvis{8}{22}{vit16} & \sbvis{8}{28}{vit16} & \sbvis{9}{0}{vit16} & \sbvis{9}{25}{vit16} & \sbvis{10}{0}{vit16} & \sbvis{10}{9}{vit16} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{8}{19}{vit16} & \saeval{8}{22}{vit16} & \saeval{8}{28}{vit16} & \saeval{9}{0}{vit16} & \saeval{9}{25}{vit16} & \saeval{10}{0}{vit16} & \saeval{10}{9}{vit16} \\[-3.3pt]
+\end{tabularx} \caption{} \label{fig:zoom} \end{figure*}
+\begin{figure*}[t]\centering\setlength\tabcolsep{0pt}\begin{tabularx}{\linewidth}{YYYYYYYYYYYYYYY}
+& \salayer{10}{22} & \salayer{10}{20} & \salayer{10}{27} & \salayer{10}{37} & \salayer{11}{0} & \salayer{11}{16} & \salayer{11}{33} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \sbvis{10}{22}{vit16} & \sbvis{10}{20}{vit16} & \sbvis{10}{27}{vit16} & \sbvis{10}{37}{vit16} & \sbvis{11}{0}{vit16} & \sbvis{11}{16}{vit16} & \sbvis{11}{33}{vit16} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{10}{22}{vit16} & \saeval{10}{20}{vit16} & \saeval{10}{27}{vit16} & \saeval{10}{37}{vit16} & \saeval{11}{0}{vit16} & \saeval{11}{16}{vit16} & \saeval{11}{33}{vit16} \\[-3.3pt]
+\\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }\\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }\\[-3.3pt]
+\end{tabularx} \caption{} \label{fig:zoom} \end{figure*}
+

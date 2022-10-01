@@ -1,0 +1,29 @@
+\begin{figure*}[t]\centering\setlength\tabcolsep{0pt}\begin{tabularx}{\linewidth}{YYYYYYYYYYYYYYY}
+& \salayer{5}{58} & \salayer{5}{47} & \salayer{5}{39} & \salayer{5}{32} & \salayer{5}{31} & \salayer{5}{9} & \salayer{5}{11} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{5}{58}{0.1}{clip32} & \savis{5}{47}{1.0}{clip32} & \savis{5}{39}{0.1}{clip32} & \savis{5}{32}{0.1}{clip32} & \savis{5}{31}{1.0}{clip32} & \savis{5}{9}{0.1}{clip32} & \savis{5}{11}{0.1}{clip32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{5}{58}{clip32} & \saeval{5}{47}{clip32} & \saeval{5}{39}{clip32} & \saeval{5}{32}{clip32} & \saeval{5}{31}{clip32} & \saeval{5}{9}{clip32} & \saeval{5}{11}{clip32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{5}{58}{clip32} & \satrain{5}{47}{clip32} & \satrain{5}{39}{clip32} & \satrain{5}{32}{clip32} & \satrain{5}{31}{clip32} & \satrain{5}{9}{clip32} & \satrain{5}{11}{clip32} \\
+& \salayer{5}{3} & \salayer{6}{50} & \salayer{6}{51} & \salayer{6}{45} & \salayer{6}{33} & \salayer{6}{32} & \salayer{6}{31} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{5}{3}{1.0}{clip32} & \savis{6}{50}{0.1}{clip32} & \savis{6}{51}{1.0}{clip32} & \savis{6}{45}{0.1}{clip32} & \savis{6}{33}{0.1}{clip32} & \savis{6}{32}{0.1}{clip32} & \savis{6}{31}{0.1}{clip32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{5}{3}{clip32} & \saeval{6}{50}{clip32} & \saeval{6}{51}{clip32} & \saeval{6}{45}{clip32} & \saeval{6}{33}{clip32} & \saeval{6}{32}{clip32} & \saeval{6}{31}{clip32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{5}{3}{clip32} & \satrain{6}{50}{clip32} & \satrain{6}{51}{clip32} & \satrain{6}{45}{clip32} & \satrain{6}{33}{clip32} & \satrain{6}{32}{clip32} & \satrain{6}{31}{clip32} \\
+& \salayer{7}{57} & \salayer{7}{53} & \salayer{7}{40} & \salayer{7}{42} & \salayer{7}{39} & \salayer{7}{38} & \salayer{8}{54} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{7}{57}{0.1}{clip32} & \savis{7}{53}{0.1}{clip32} & \savis{7}{40}{1.0}{clip32} & \savis{7}{42}{1.0}{clip32} & \savis{7}{39}{0.1}{clip32} & \savis{7}{38}{1.0}{clip32} & \savis{8}{54}{1.0}{clip32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{7}{57}{clip32} & \saeval{7}{53}{clip32} & \saeval{7}{40}{clip32} & \saeval{7}{42}{clip32} & \saeval{7}{39}{clip32} & \saeval{7}{38}{clip32} & \saeval{8}{54}{clip32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{7}{57}{clip32} & \satrain{7}{53}{clip32} & \satrain{7}{40}{clip32} & \satrain{7}{42}{clip32} & \satrain{7}{39}{clip32} & \satrain{7}{38}{clip32} & \satrain{8}{54}{clip32} \\
+& \salayer{8}{47} & \salayer{8}{34} & \salayer{8}{16} & \salayer{8}{12} & \salayer{8}{13} & \salayer{9}{59} & \salayer{9}{47} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{8}{47}{1.0}{clip32} & \savis{8}{34}{1.0}{clip32} & \savis{8}{16}{1.0}{clip32} & \savis{8}{12}{1.0}{clip32} & \savis{8}{13}{0.1}{clip32} & \savis{9}{59}{1.0}{clip32} & \savis{9}{47}{0.1}{clip32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{8}{47}{clip32} & \saeval{8}{34}{clip32} & \saeval{8}{16}{clip32} & \saeval{8}{12}{clip32} & \saeval{8}{13}{clip32} & \saeval{9}{59}{clip32} & \saeval{9}{47}{clip32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{8}{47}{clip32} & \satrain{8}{34}{clip32} & \satrain{8}{16}{clip32} & \satrain{8}{12}{clip32} & \satrain{8}{13}{clip32} & \satrain{9}{59}{clip32} & \satrain{9}{47}{clip32} \\
+\end{tabularx} \caption{} \label{fig:zoom} \end{figure*}
+\begin{figure*}[t]\centering\setlength\tabcolsep{0pt}\begin{tabularx}{\linewidth}{YYYYYYYYYYYYYYY}
+& \salayer{9}{41} & \salayer{9}{27} & \salayer{9}{15} & \salayer{9}{14} & \salayer{10}{43} & \salayer{10}{39} & \salayer{10}{24} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{9}{41}{0.1}{clip32} & \savis{9}{27}{1.0}{clip32} & \savis{9}{15}{0.1}{clip32} & \savis{9}{14}{1.0}{clip32} & \savis{10}{43}{1.0}{clip32} & \savis{10}{39}{0.1}{clip32} & \savis{10}{24}{1.0}{clip32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{9}{41}{clip32} & \saeval{9}{27}{clip32} & \saeval{9}{15}{clip32} & \saeval{9}{14}{clip32} & \saeval{10}{43}{clip32} & \saeval{10}{39}{clip32} & \saeval{10}{24}{clip32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{9}{41}{clip32} & \satrain{9}{27}{clip32} & \satrain{9}{15}{clip32} & \satrain{9}{14}{clip32} & \satrain{10}{43}{clip32} & \satrain{10}{39}{clip32} & \satrain{10}{24}{clip32} \\
+\\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }\\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }\\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }\\
+\end{tabularx} \caption{} \label{fig:zoom} \end{figure*}
+

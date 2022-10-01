@@ -1,0 +1,51 @@
+\begin{figure*}[t]\centering\setlength\tabcolsep{0pt}\begin{tabularx}{\linewidth}{YYYYYYYYYYYYYYY}
+& \salayer{5}{32} & \salayer{5}{35} & \salayer{5}{25} & \salayer{6}{58} & \salayer{6}{45} & \salayer{6}{46} & \salayer{6}{42} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{5}{32}{1.0}{vit32} & \savis{5}{35}{0.1}{vit32} & \savis{5}{25}{1.0}{vit32} & \savis{6}{58}{0.1}{vit32} & \savis{6}{45}{1.0}{vit32} & \savis{6}{46}{1.0}{vit32} & \savis{6}{42}{1.0}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{5}{32}{vit32} & \saeval{5}{35}{vit32} & \saeval{5}{25}{vit32} & \saeval{6}{58}{vit32} & \saeval{6}{45}{vit32} & \saeval{6}{46}{vit32} & \saeval{6}{42}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{5}{32}{vit32} & \satrain{5}{35}{vit32} & \satrain{5}{25}{vit32} & \satrain{6}{58}{vit32} & \satrain{6}{45}{vit32} & \satrain{6}{46}{vit32} & \satrain{6}{42}{vit32} \\
+& \salayer{6}{40} & \salayer{6}{32} & \salayer{6}{34} & \salayer{6}{17} & \salayer{6}{9} & \salayer{7}{55} & \salayer{7}{49} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{6}{40}{1.0}{vit32} & \savis{6}{32}{0.1}{vit32} & \savis{6}{34}{1.0}{vit32} & \savis{6}{17}{0.1}{vit32} & \savis{6}{9}{0.1}{vit32} & \savis{7}{55}{1.0}{vit32} & \savis{7}{49}{1.0}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{6}{40}{vit32} & \saeval{6}{32}{vit32} & \saeval{6}{34}{vit32} & \saeval{6}{17}{vit32} & \saeval{6}{9}{vit32} & \saeval{7}{55}{vit32} & \saeval{7}{49}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{6}{40}{vit32} & \satrain{6}{32}{vit32} & \satrain{6}{34}{vit32} & \satrain{6}{17}{vit32} & \satrain{6}{9}{vit32} & \satrain{7}{55}{vit32} & \satrain{7}{49}{vit32} \\
+& \salayer{7}{44} & \salayer{7}{39} & \salayer{7}{25} & \salayer{7}{27} & \salayer{7}{17} & \salayer{7}{10} & \salayer{7}{0} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{7}{44}{1.0}{vit32} & \savis{7}{39}{1.0}{vit32} & \savis{7}{25}{0.1}{vit32} & \savis{7}{27}{0.1}{vit32} & \savis{7}{17}{0.1}{vit32} & \savis{7}{10}{0.1}{vit32} & \savis{7}{0}{1.0}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{7}{44}{vit32} & \saeval{7}{39}{vit32} & \saeval{7}{25}{vit32} & \saeval{7}{27}{vit32} & \saeval{7}{17}{vit32} & \saeval{7}{10}{vit32} & \saeval{7}{0}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{7}{44}{vit32} & \satrain{7}{39}{vit32} & \satrain{7}{25}{vit32} & \satrain{7}{27}{vit32} & \satrain{7}{17}{vit32} & \satrain{7}{10}{vit32} & \satrain{7}{0}{vit32} \\
+& \salayer{8}{58} & \salayer{8}{52} & \salayer{8}{43} & \salayer{8}{27} & \salayer{8}{23} & \salayer{8}{18} & \salayer{8}{14} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{8}{58}{0.1}{vit32} & \savis{8}{52}{0.1}{vit32} & \savis{8}{43}{0.1}{vit32} & \savis{8}{27}{1.0}{vit32} & \savis{8}{23}{0.1}{vit32} & \savis{8}{18}{0.1}{vit32} & \savis{8}{14}{1.0}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{8}{58}{vit32} & \saeval{8}{52}{vit32} & \saeval{8}{43}{vit32} & \saeval{8}{27}{vit32} & \saeval{8}{23}{vit32} & \saeval{8}{18}{vit32} & \saeval{8}{14}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{8}{58}{vit32} & \satrain{8}{52}{vit32} & \satrain{8}{43}{vit32} & \satrain{8}{27}{vit32} & \satrain{8}{23}{vit32} & \satrain{8}{18}{vit32} & \satrain{8}{14}{vit32} \\
+\end{tabularx} \caption{} \label{fig:zoom} \end{figure*}
+\begin{figure*}[t]\centering\setlength\tabcolsep{0pt}\begin{tabularx}{\linewidth}{YYYYYYYYYYYYYYY}
+& \salayer{8}{15} & \salayer{8}{10} & \salayer{8}{9} & \salayer{8}{5} & \salayer{8}{2} & \salayer{9}{52} & \salayer{9}{48} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{8}{15}{1.0}{vit32} & \savis{8}{10}{0.1}{vit32} & \savis{8}{9}{0.1}{vit32} & \savis{8}{5}{0.1}{vit32} & \savis{8}{2}{1.0}{vit32} & \savis{9}{52}{1.0}{vit32} & \savis{9}{48}{0.1}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{8}{15}{vit32} & \saeval{8}{10}{vit32} & \saeval{8}{9}{vit32} & \saeval{8}{5}{vit32} & \saeval{8}{2}{vit32} & \saeval{9}{52}{vit32} & \saeval{9}{48}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{8}{15}{vit32} & \satrain{8}{10}{vit32} & \satrain{8}{9}{vit32} & \satrain{8}{5}{vit32} & \satrain{8}{2}{vit32} & \satrain{9}{52}{vit32} & \satrain{9}{48}{vit32} \\
+& \salayer{9}{50} & \salayer{9}{47} & \salayer{9}{44} & \salayer{9}{40} & \salayer{9}{33} & \salayer{9}{34} & \salayer{9}{35} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{9}{50}{1.0}{vit32} & \savis{9}{47}{1.0}{vit32} & \savis{9}{44}{1.0}{vit32} & \savis{9}{40}{0.1}{vit32} & \savis{9}{33}{1.0}{vit32} & \savis{9}{34}{0.1}{vit32} & \savis{9}{35}{1.0}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{9}{50}{vit32} & \saeval{9}{47}{vit32} & \saeval{9}{44}{vit32} & \saeval{9}{40}{vit32} & \saeval{9}{33}{vit32} & \saeval{9}{34}{vit32} & \saeval{9}{35}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{9}{50}{vit32} & \satrain{9}{47}{vit32} & \satrain{9}{44}{vit32} & \satrain{9}{40}{vit32} & \satrain{9}{33}{vit32} & \satrain{9}{34}{vit32} & \satrain{9}{35}{vit32} \\
+& \salayer{9}{29} & \salayer{9}{28} & \salayer{9}{24} & \salayer{9}{25} & \salayer{9}{16} & \salayer{10}{56} & \salayer{10}{51} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{9}{29}{0.1}{vit32} & \savis{9}{28}{0.1}{vit32} & \savis{9}{24}{0.1}{vit32} & \savis{9}{25}{0.1}{vit32} & \savis{9}{16}{1.0}{vit32} & \savis{10}{56}{0.1}{vit32} & \savis{10}{51}{0.1}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{9}{29}{vit32} & \saeval{9}{28}{vit32} & \saeval{9}{24}{vit32} & \saeval{9}{25}{vit32} & \saeval{9}{16}{vit32} & \saeval{10}{56}{vit32} & \saeval{10}{51}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{9}{29}{vit32} & \satrain{9}{28}{vit32} & \satrain{9}{24}{vit32} & \satrain{9}{25}{vit32} & \satrain{9}{16}{vit32} & \satrain{10}{56}{vit32} & \satrain{10}{51}{vit32} \\
+& \salayer{10}{48} & \salayer{10}{45} & \salayer{10}{43} & \salayer{10}{42} & \salayer{10}{41} & \salayer{10}{40} & \salayer{10}{36} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{10}{48}{0.1}{vit32} & \savis{10}{45}{0.1}{vit32} & \savis{10}{43}{1.0}{vit32} & \savis{10}{42}{0.1}{vit32} & \savis{10}{41}{0.1}{vit32} & \savis{10}{40}{0.1}{vit32} & \savis{10}{36}{1.0}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{10}{48}{vit32} & \saeval{10}{45}{vit32} & \saeval{10}{43}{vit32} & \saeval{10}{42}{vit32} & \saeval{10}{41}{vit32} & \saeval{10}{40}{vit32} & \saeval{10}{36}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{10}{48}{vit32} & \satrain{10}{45}{vit32} & \satrain{10}{43}{vit32} & \satrain{10}{42}{vit32} & \satrain{10}{41}{vit32} & \satrain{10}{40}{vit32} & \satrain{10}{36}{vit32} \\
+\end{tabularx} \caption{} \label{fig:zoom} \end{figure*}
+\begin{figure*}[t]\centering\setlength\tabcolsep{0pt}\begin{tabularx}{\linewidth}{YYYYYYYYYYYYYYY}
+& \salayer{10}{35} & \salayer{10}{34} & \salayer{10}{31} & \salayer{10}{26} & \salayer{10}{22} & \salayer{10}{23} & \salayer{10}{18} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{10}{35}{0.1}{vit32} & \savis{10}{34}{1.0}{vit32} & \savis{10}{31}{0.1}{vit32} & \savis{10}{26}{1.0}{vit32} & \savis{10}{22}{0.1}{vit32} & \savis{10}{23}{0.1}{vit32} & \savis{10}{18}{0.1}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{10}{35}{vit32} & \saeval{10}{34}{vit32} & \saeval{10}{31}{vit32} & \saeval{10}{26}{vit32} & \saeval{10}{22}{vit32} & \saeval{10}{23}{vit32} & \saeval{10}{18}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{10}{35}{vit32} & \satrain{10}{34}{vit32} & \satrain{10}{31}{vit32} & \satrain{10}{26}{vit32} & \satrain{10}{22}{vit32} & \satrain{10}{23}{vit32} & \satrain{10}{18}{vit32} \\
+& \salayer{10}{14} & \salayer{10}{13} & \salayer{10}{9} & \salayer{10}{10} & \salayer{10}{11} & \salayer{10}{6} & \salayer{10}{5} \\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }& \savis{10}{14}{0.1}{vit32} & \savis{10}{13}{1.0}{vit32} & \savis{10}{9}{0.1}{vit32} & \savis{10}{10}{0.1}{vit32} & \savis{10}{11}{1.0}{vit32} & \savis{10}{6}{0.1}{vit32} & \savis{10}{5}{0.1}{vit32} \\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }& \saeval{10}{14}{vit32} & \saeval{10}{13}{vit32} & \saeval{10}{9}{vit32} & \saeval{10}{10}{vit32} & \saeval{10}{11}{vit32} & \saeval{10}{6}{vit32} & \saeval{10}{5}{vit32} \\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }& \satrain{10}{14}{vit32} & \satrain{10}{13}{vit32} & \satrain{10}{9}{vit32} & \satrain{10}{10}{vit32} & \satrain{10}{11}{vit32} & \satrain{10}{6}{vit32} & \satrain{10}{5}{vit32} \\
+\\
+\raisebox{1.0\totalheight}{ \rotatebox[origin=lB]{90}{Ours} }\\[-3.3pt]
+\raisebox{0.7\totalheight}{ \rotatebox[origin=lB]{90}{Val} }\\[-3.3pt]
+\raisebox{0.3\totalheight}{ \rotatebox[origin=lB]{90}{Train} }\\
+\end{tabularx} \caption{} \label{fig:zoom} \end{figure*}
+

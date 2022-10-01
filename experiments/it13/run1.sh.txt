@@ -1,0 +1,36 @@
+Trying to load config file configs/fore_back.toml but it doesnt exist
+{'toml': 'configs/fore_back.toml', 'experiment': None, 'layer': 0, 'feature': 0, 'target': 0, 'seed': 6247423, 'grid': 0, 'lr': 0.1, 'network': 35, 'patch': 16, 'sign': 1, 'method': 'in_feat', 'dir': None, 'tv': 1.0, 'exp_no': '1642699231'}
+Loaded pretrained weights.
+loading imagenet folders
+Trying to load config file configs/fore_back.toml but it doesnt exist
+{'toml': 'configs/fore_back.toml', 'experiment': None, 'layer': 0, 'feature': 0, 'target': 0, 'seed': 6247423, 'grid': 0, 'lr': 0.1, 'network': 37, 'patch': 16, 'sign': 1, 'method': 'in_feat', 'dir': None, 'tv': 1.0, 'exp_no': '1642699231'}
+Loaded pretrained weights.
+loading imagenet folders
+Trying to load config file configs/fore_back.toml but it doesnt exist
+{'toml': 'configs/fore_back.toml', 'experiment': None, 'layer': 0, 'feature': 0, 'target': 0, 'seed': 6247423, 'grid': 0, 'lr': 0.1, 'network': 36, 'patch': 16, 'sign': 1, 'method': 'in_feat', 'dir': None, 'tv': 1.0, 'exp_no': '1642699231'}
+Loaded pretrained weights.
+loading imagenet folders
+Trying to load config file configs/fore_back.toml but it doesnt exist
+{'toml': 'configs/fore_back.toml', 'experiment': None, 'layer': 0, 'feature': 0, 'target': 0, 'seed': 6247423, 'grid': 0, 'lr': 0.1, 'network': 34, 'patch': 16, 'sign': 1, 'method': 'in_feat', 'dir': None, 'tv': 1.0, 'exp_no': '1642699231'}
+Loaded pretrained weights.
+loading imagenet folders
+Trying to load config file configs/fore_back.toml but it doesnt exist
+{'toml': 'configs/fore_back.toml', 'experiment': None, 'layer': 0, 'feature': 0, 'target': 0, 'seed': 6247423, 'grid': 0, 'lr': 0.1, 'network': 37, 'patch': 16, 'sign': 1, 'method': 'in_feat', 'dir': None, 'tv': 1.0, 'exp_no': '1642699232'}
+Loaded pretrained weights.
+loading imagenet folders
+Trying to load config file configs/fore_back.toml but it doesnt exist
+{'toml': 'configs/fore_back.toml', 'experiment': None, 'layer': 0, 'feature': 0, 'target': 0, 'seed': 6247423, 'grid': 0, 'lr': 0.1, 'network': 36, 'patch': 16, 'sign': 1, 'method': 'in_feat', 'dir': None, 'tv': 1.0, 'exp_no': '1642699232'}
+Loaded pretrained weights.
+loading imagenet folders
+Trying to load config file configs/fore_back.toml but it doesnt exist
+{'toml': 'configs/fore_back.toml', 'experiment': None, 'layer': 0, 'feature': 0, 'target': 0, 'seed': 6247423, 'grid': 0, 'lr': 0.1, 'network': 35, 'patch': 16, 'sign': 1, 'method': 'in_feat', 'dir': None, 'tv': 1.0, 'exp_no': '1642699232'}
+Loaded pretrained weights.
+loading imagenet folders
+Trying to load config file configs/fore_back.toml but it doesnt exist
+{'toml': 'configs/fore_back.toml', 'experiment': None, 'layer': 0, 'feature': 0, 'target': 0, 'seed': 6247423, 'grid': 0, 'lr': 0.1, 'network': 34, 'patch': 16, 'sign': 1, 'method': 'in_feat', 'dir': None, 'tv': 1.0, 'exp_no': '1642699232'}
+Loaded pretrained weights.
+loading imagenet folders
+ViT1_B_32_imagenet1k x: 89.24894714355469 	 98.43669891357422 	 0.3739019054466698	 b: 13.428242683410645 	 27.663724899291992 	 5.453190676975282 	 f: 81.6910171508789 	 92.44476318359375 	 0.8215296501231595
+ViT3_L_32_imagenet1k x: 94.6391830444336 	 99.31832122802734 	 0.18964241685182537	 b: 16.73013687133789 	 30.805870056152344 	 5.295294156701173 	 f: 85.77217864990234 	 93.25220489501953 	 0.6882677027647748
+ViT0_B_16_imagenet1k x: 92.36602020263672 	 99.2203140258789 	 0.2568791895952607	 b: 15.690422058105469 	 31.344791412353516 	 5.171309608662366 	 f: 86.55352020263672 	 94.89424133300781 	 0.5916320993339724
+ViT2_L_16_imagenet1k x: 94.9966049194336 	 99.56944274902344 	 0.1682631322625474	 b: 18.133691787719727 	 33.54750442504883 	 5.027811610978178 	 f: 89.19072723388672 	 95.7696533203125 	 0.4772288825932282
